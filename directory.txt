@@ -1,0 +1,9 @@
+crypto_trading_system/
+│
+├── market_observer.py       # Market Observer Agent
+├── strategy_planner.py      # Strategy Planner Agent (Pydantic AI)
+├── execution_trader.py      # Execution Trader Agent
+├── feedback_agent.py        # Feedback Agent
+├── models.py                # Pydantic models for data validation
+├── main.py                  # Main file to run the system
+└── requirements.txt         # Dependencies
