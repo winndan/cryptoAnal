@@ -1,0 +1,15 @@
+
+step
+
+agent for market analyzer/observer
+- this agent will observe the crypto market and make decisions based on the current state of the market
+
+agent for reasoning or planning strategy
+- this agent will create trading strategies based on the current state of the market
+
+agent for execution traders
+- this agent will execute the trading strategies
+
+agent for getting feedback
+- this agent will get feedback from the execution agent
+

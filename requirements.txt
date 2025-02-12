@@ -2,3 +2,4 @@ pydantic
 pydantic-ai
 requests
 python-dotenv
+alpaca-py
